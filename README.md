@@ -2,7 +2,7 @@
 
 A dynamic, gamified quiz application built with React, TypeScript, and Framer Motion. The application features real-time scoring, animations, and an engaging user interface.
 
-![Quiz App Screenshot](https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.1)
+Link-https://startling-moonbeam-2ee3b3.netlify.app
 
 ## Features
 
@@ -16,7 +16,10 @@ A dynamic, gamified quiz application built with React, TypeScript, and Framer Mo
 
 ## Demo Video
 
-[View Demo on YouTube](https://youtu.be/your-demo-video)
+
+https://github.com/user-attachments/assets/9d6fba38-9eb3-4b62-a211-ac763472ec3a
+
+
 
 ## Tech Stack
 
@@ -136,13 +139,17 @@ useEffect(() => {
 ## Screenshots
 
 ### Start Screen
-![Start Screen](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.1)
+
+
+[Screenshot 2025-02-02 221044](https://github.com/user-attachments/assets/a87d4b32-1fed-4ec1-8740-d87f74468e7d)
 
 ### Question Screen
-![Question Screen](https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.1)
+![Screenshot 2025-02-02 223714](https://github.com/user-attachments/assets/19567147-ffeb-416c-9936-25a2b3695623)
+
 
 ### Results Screen
-![Results Screen](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.1)
+![Screenshot 2025-02-02 223901](https://github.com/user-attachments/assets/e9dd6287-2d2d-4d11-a382-1493d1d49eb7)
+
 
 ## Contributing
 
